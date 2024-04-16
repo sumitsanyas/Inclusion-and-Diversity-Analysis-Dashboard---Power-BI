@@ -2,10 +2,10 @@
 
 Here is the brief of key insights I found :
 
-✅ There are a total of 500 employees where 47 of them have resigned, 66 have newly hired and there 453 employees.
-✅ Majority of employees range from the age group of 22 - 30 years.
-✅ Department of Operations has almost equal proportion of employment in terms of Gender.
-✅ The rate of promotion has increased in a quicker pace when compared to previous year.
+✅There are a total of 500 employees where 47 of them have resigned, 66 have been newly hired and 453 employees.
+✅Majority of employees range from 22 - 30 years old.
+✅The Department of Operations has an almost equal proportion of employment in terms of Gender.
+✅The rate of promotion has increased at a quicker pace when compared to the previous year.
 ✅Identified promoted employees in FY20 to FY21, noting a twofold increase in promotions for women.
 ✅Analyzed employee distribution by department, observing higher female representation in HR, while gender representation was equal in Operations.
 ✅Observed gender parity in performance ratings.
